@@ -1,0 +1,1 @@
+console.log("Web app Gemini Telegram Bot aktif.");
